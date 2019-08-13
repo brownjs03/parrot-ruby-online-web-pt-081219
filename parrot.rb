@@ -1,4 +1,4 @@
-def parrot(noise)
+def parrot(noise = "Squawk!")
   puts noise
   return noise
 end
